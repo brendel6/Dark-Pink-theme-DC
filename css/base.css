@@ -2597,7 +2597,7 @@ body:active .alt-3btY0e.menu-Sp6bN1:not(:active) {
 	background:var(--backdrop) !important;
 	background-size:cover !important;
 	background-repeat:no-repeat;
-	box-shadow:inset 0px 0px 10000px rgba(0,0,0,0.8), 0px 0px 10px rgba(0,0,0,0.8) !important;
+	box-shadow:inset 0px 0px 10000px rgba(0,0,0,0.8), 0px 0px 10px rgba(0,0,0,0.5) !important;
 }
 .bd-modalHeader .bd-modalX:hover {
   background:var(--main-color-faded) !important;
@@ -2774,7 +2774,7 @@ label.checkboxWrapper-SkhIWG.alignCenter-MrlN6q {
 	background:rgba(0,0,0,0.75) !important;
 }
 .resultFocused-3aIoYe {
-	background:rgba(0,0,0,0.5) !important;
+	background:rgba(0,0,0,0.7) !important;
 }
 
 /*8.e. Screenshare Modal*/
@@ -2862,10 +2862,10 @@ label.checkboxWrapper-SkhIWG.alignCenter-MrlN6q {
 	background:var(--backdrop) !important;
 	background-size:cover !important;
 	background-repeat:no-repeat;
-	box-shadow:inset 0px 0px 10000px rgba(0,0,0,0.8), 0px 0px 10px rgba(0,0,0,0.5) !important;
+	box-shadow:inset 0px 0px 10000px rgba(0,0,0,0.8), 0px 0px 10px rgba(0,0,0,0.7) !important;
 }
 .regionSelectModal-12e-57 .regionSelectModalOption-2DSIZ3:hover {
-	background:rgba(0,0,0,0.5) !important;
+	background:rgba(0,0,0,0.7) !important;
 	border-color:var(--hover-color) !important;
 }
 .regionSelectModal-12e-57 .regionSelectModalOption-2DSIZ3 {
@@ -2876,19 +2876,19 @@ label.checkboxWrapper-SkhIWG.alignCenter-MrlN6q {
 .regionSelect-3lf4eE .regionSelectInner-24f4Ce,
 .regionSelect-3lf4eE button {
 	border:none;
-	background:rgba(0,0,0,0.5) !important;
+	background:rgba(0,0,0,0.7) !important;
 }
 .scroller-2FKFPG.systemPad-3UxEGl.inner-ZyuQk0.slideBody-35BNbg.slideBody-2nMrnU {
     background: var(--backdrop) !important;
     background-size: cover !important;
     background-repeat: no-repeat;
-    box-shadow: inset 0px 0px 10000px rgba(0,0,0,0.8), 0px 0px 10px rgba(0,0,0,0.5) !important;
+    box-shadow: inset 0px 0px 10000px rgba(0,0,0,0.8), 0px 0px 10px rgba(0,0,0,0.7) !important;
 }
 .wrapper-2ZbzR9.fixClipping-3qAKRb.theme-light.root-1gCeng.fullscreenOnMobile-1bD22y {
     background: var(--backdrop) !important;
     background-size: cover !important;
     background-repeat: no-repeat;
-    box-shadow: inset 0px 0px 10000px rgba(0,0,0,0.8), 0px 0px 10px rgba(0,0,0,0.5) !important;
+    box-shadow: inset 0px 0px 10000px rgba(0,0,0,0.8), 0px 0px 10px rgba(0,0,0,0.7) !important;
 }
 form.modal-yWgWj-.slide-2pHaq5.size-1WIx1O.fullscreenOnMobile-1aglG_ {
     background: transparent;
@@ -3041,7 +3041,7 @@ other contributors to USRBG.
     box-shadow: inset 0 -90px 130px 10px var(--hover-color) !important;
 }
 .body-3ND3kc {
-    border-top:4px solid rgba(0,0,0,0.5) !important;
+    border-top:4px solid rgba(0,0,0,0.6) !important;
 }
 .root-SR8cQa,
 .root-SR8cQa .scroller-2FKFPG{
@@ -3179,7 +3179,7 @@ other contributors to USRBG.
   left:82px !important;
   top:-22% !important;
   z-index:100000000 !important;
-  border:200px solid rgba(0,0,0,0.5);
+  border:200px solid rgba(0,0,0,0.6);
   animation:opacity .5s ease;
 }
 @keyframes opacity {
