@@ -2597,7 +2597,7 @@ body:active .alt-3btY0e.menu-Sp6bN1:not(:active) {
 	background:var(--backdrop) !important;
 	background-size:cover !important;
 	background-repeat:no-repeat;
-	box-shadow:inset 0px 0px 10000px rgba(0,0,0,0.8), 0px 0px 10px rgba(0,0,0,0.5) !important;
+	box-shadow:inset 0px 0px 10000px rgba(0,0,0,0.8), 0px 0px 10px rgba(0,0,0,0.8) !important;
 }
 .bd-modalHeader .bd-modalX:hover {
   background:var(--main-color-faded) !important;
